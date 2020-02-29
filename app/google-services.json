@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370533064024",
+    "firebase_url": "https://reminderapp-a1312.firebaseio.com",
+    "project_id": "reminderapp-a1312",
+    "storage_bucket": "reminderapp-a1312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370533064024:android:a9cb719e956f48e0ee192d",
+        "android_client_info": {
+          "package_name": "com.softbyte.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370533064024-j6iiog86jtpkgi9jlbcfv329l994i6ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softbyte.reminderapp",
+            "certificate_hash": "72f11b34741403fae2857281e092eb63f03bda51"
+          }
+        },
+        {
+          "client_id": "370533064024-9t1qrvn1ortvsovlgto5lg3t4v4i2mbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GuT-NDj2_FJkd4ivM1-NFkxbm53YSP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370533064024-9t1qrvn1ortvsovlgto5lg3t4v4i2mbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
